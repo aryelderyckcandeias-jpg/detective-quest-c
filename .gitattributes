@@ -1,0 +1,6 @@
+# Normaliza finais de linha (LF) para evitar diferenças entre Windows e Linux.
+* text=auto eol=lf
+
+*.c    text eol=lf
+*.h    text eol=lf
+Makefile text eol=lf

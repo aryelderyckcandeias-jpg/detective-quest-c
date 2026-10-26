@@ -1,0 +1,16 @@
+# Binários e objetos gerados na compilação
+*.o
+*.obj
+*.exe
+*.out
+a.out
+build/
+
+# Editores e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Binário gerado pelo Makefile
+detective_quest
